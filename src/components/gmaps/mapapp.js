@@ -77,5 +77,5 @@ render() {
 }
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyAb_hTLKRbbKd1naMuSYEYYFiQyIYr6XcE'
+  apiKey: 'your_api_key'
 })(MapContainer);
