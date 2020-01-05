@@ -1,0 +1,38 @@
+.quiz {
+  font-family: sans-serif;
+  text-align: center;
+
+}
+body {
+  font-size: 1.2rem;
+
+
+  /* Chrome 10-25, Safari 5.1-6 */
+
+}
+
+.result {
+  margin-top: 20px;
+}
+
+.options {
+  cursor: pointer;
+  border: 1px solid grey;
+  box-shadow: 10px 10px 5px grey;
+  padding: 10px;
+}
+
+.selected {
+  border-color: #1A73CB;
+  border-width: 2px;
+}
+
+ul {
+  list-style-type: none;
+}
+.cBlue{
+  color: #1A73CB;
+}
+.cGrey{
+  color: #B3B3B3
+}
