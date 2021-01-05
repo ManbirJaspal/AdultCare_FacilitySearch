@@ -7,7 +7,7 @@
     "@material-ui/icons": "^4.5.1",
     "@material/chips": "^4.0.0",
     "@material/react-chips": "^0.15.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "google-maps-react": "^2.0.2",
     "lodash": "^4.17.11",
     "node-sass": "^4.12.0",
